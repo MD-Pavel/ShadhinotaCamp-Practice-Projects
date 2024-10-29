@@ -1,3 +1,4 @@
 # ShadhinotaCamp-Practice-Projects
 Practice projects from shadhinotacamp <br/>
-Project 1 live site: https://astounding-pothos-43f6d3.netlify.app
+project 1 - live Site: https://shadhinota-camp-project-1.netlify.app <br />
+project 2 - live site: https://shadhinota-camp-project-2.netlify.app <br />
